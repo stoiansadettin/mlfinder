@@ -1,11 +1,11 @@
-## Meal Finder App
+## Aplicația de căutare a retelelor
 
-Search and generate random meals from the [themealdb.com](www.themealdb.com) API
+Căutați și generați retele aleatorii din API-ul [themealdb.com](www.themealdb.com)
 
-## Project Specifications
+## Specificații de proiect
 
-- Display UI with form to search and button to generate
-- Connect to API and get meals
-- Display meals in DOM with image and hover effect
-- Click on meal and see the details
-- Click on generate button and fetch & display a random meal
+- Afișați interfața de utilizare cu formular pentru căutare și buton pentru generare
+- Conectați-vă la API și obțineți retele
+- Afișați retelele în DOM cu efect de imagine și hover
+- Faceți clic pe masă și vedeți detaliile
+- Faceți clic pe butonul de generare și preluați și afișați o retea aleatorie
